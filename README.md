@@ -1,2 +1,2 @@
 # Learning-JS
-Репозиторий для изучения JavaScript
+Репозиторий для изучения JavaScript.
